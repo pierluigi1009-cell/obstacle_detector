@@ -28,11 +28,11 @@ Clone this repository inside your ROS2 workspace:
 
 ```bash
 cd ~/ros2_ws/src
-```bash
+
 git clone https://github.com/pierluigi1009-cell/obstacle_detector.git
-```bash
+
 cd ~/ros2_ws
-```bash
+
 colcon build --packages-select obstacle_detector
-```bash
+
 source install/setup.bash
